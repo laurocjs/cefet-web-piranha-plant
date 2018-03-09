@@ -1,6 +1,8 @@
-.pagina {
+.body {
 	background-image: url('../imagens/fundo.png');
-	background-repeat: repeat;
+
+}
+.pagina {
 	padding: 15px;
 }
 
